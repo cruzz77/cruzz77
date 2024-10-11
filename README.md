@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm **Aditya Chopra**!
 
-<!--
-**cruzz77/cruzz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 💻 **Static Website Developer**
+- 🚀 Currently learning **Python** and exploring new technologies.
+- 🎓 Enrolled in **Newton School of Technology**.
+- ⚡ Fascinated by coding, web development, and anything tech-related.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧 Contact Me
+Feel free to reach out to me via email:
+
+[![Email Badge](https://img.shields.io/badge/Email-nytc120605@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:nytc120605@gmail.com)
+
+## 🚀 My Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Tools & Technologies:** Git, GitHub, VS Code, VS Studio, Bootstrap
+- **Learning:** React, Django, Machine Learning
+
+## 🌐 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/adityachopra) 
+- [GitHub](https://github.com/adityachopra)
+
+---
+
+### 💡 Fun Fact:
+I am passionate about learning new technologies and solving real-world problems through code.
+
